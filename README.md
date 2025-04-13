@@ -8,8 +8,6 @@ This is a NumPy-based deep learning framework implemented entirely from scratch 
 - Support for dense and convolutional layers
 - Gradient-based backpropagation
 - Training loop for models
-- Simple implementation of max/average pooling placeholders
-- XOR dataset generator for testing
 - Custom FFT-based 2D convolution (valid padding)
 
 ## 🧱 Project Structure
@@ -83,6 +81,7 @@ trainable_model.train()
 - Softmax gradient
 - Categorical cross-entropy implementation
 - Model `save()` method
+- CNN's not completely tested, currently debugging
 
 ## 🧠 Requirements
 
